@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main,.about,.contact{
+    text-align: center;
+    padding-top: 10px;
+    height: auto;
+   
+}
+body{
+    background-color: rgb(109, 105, 114);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.contact{
+    color: tomato;
+    
+}
+.about{
+    background-color: teal;
+    font-size: 25px;
+}
+h1{
+    color: rgb(199, 188, 174);
+    margin-bottom: 100px;
+    border-radius: 50%;
+    background: blue;
+    
+}
+p{
+    padding-bottom: 50px;
+    
+}
+.con{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: rgb(214, 192, 184);
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    
+   
+    
+    
+}
